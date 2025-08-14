@@ -43,5 +43,5 @@ Em desenvolvimento
 
 ## 👨‍💻 Desenvolvedor
 
-[Seu Nome] - [Sua Turma]  
+Gabriel Sucupira - TI56 02726  
 Desenvolvido com JDK 21 e Spring Boot 3.2.x
